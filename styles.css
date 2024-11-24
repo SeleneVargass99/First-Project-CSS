@@ -1,0 +1,159 @@
+body{
+    display: flex;
+    flex-direction: column;
+
+    justify-content: center;
+    align-items: center;
+
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+nav img{
+    width: 5vw;
+}
+
+.navbar{
+    display: flex;
+    flex-direction: row;
+}
+
+
+#navbar-left{
+    display: flex;
+    flex-direction: row;
+
+ }
+
+ul{
+    display: flex;
+    flex-direction: row;
+    list-style: none;
+}
+
+.container{
+    margin-top: 30px;
+    width: 10vw;
+
+    display: flex;
+    flex direction: row;  
+    
+    align-items: center;
+}
+
+ul{
+    display: flex;
+    flex-direction: row;
+}
+
+a{
+    color: black;
+    text-decoration: none;
+    margin: 20px;
+}
+
+.container img{
+    width: 50vw;
+    height: auto;
+    float: left;
+}
+
+#container-green{
+    background-color: #1e3932;
+    flex-direction: row;
+    margin-left: 0px;
+    display: flex;
+    padding: 0%;
+    width: 100vw;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    margin-top: 30px;
+    font-size: 18px;
+
+}
+
+#container-blue{
+    background-color: #0044b4;
+    flex-direction: row;
+    margin-left: 0px;
+    display: flex;
+    padding: 0%;
+    width: 100vw;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    margin-top: 30px;
+    font-size: 18px;    
+    flex-direction: row-reverse;
+}
+
+#container-red{
+    background-color: #d50032;
+    flex-direction: row;
+    margin-left: 0px;
+    display: flex;
+    padding: 0%;
+    width: 100vw;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    margin-top: 30px;
+    font-size: 18px;    
+}
+
+#container-greens{
+    background-color: #1e3932;
+    flex-direction: row;
+    margin-left: 0px;
+    display: flex;
+    padding: 0%;
+    width: 100vw;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    margin-top: 30px;
+    font-size: 18px;  
+    flex-direction: row-reverse;  
+}
+
+#container-reds{
+    background-color: #d50032;
+    flex-direction: row;
+    margin-left: 0px;
+    display: flex;
+    padding: 0%;
+    width: 100vw;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    margin-top: 30px;
+    font-size: 18px;    
+}
+
+.footer{
+    margin-top: 3%;
+    width: auto;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+
+
+.container-end{
+    display: inline-block;
+    width: 5%;
+    padding: 1%;
+    margin left:10%;
+    
+
+}
+#footer-letters{
+    display: flex;
+    margin: 40%;
+    align-items: center;
+    align-content: center;
+
+}
