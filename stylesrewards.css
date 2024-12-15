@@ -111,3 +111,11 @@ a{
     width: calc(100vw - 25vw); /* Ocupa el espacio restante */
     overflow-y: auto; /* Habilita el scroll vertical */
 }
+
+.unete-container{
+    flex-direction: column;
+}
+
+#osito{
+    width: 10%;
+}
