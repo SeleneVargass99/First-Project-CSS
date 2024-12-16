@@ -53,5 +53,6 @@ a{
 .bebidas{
     flex-direction: row;
     display: flex;
-
+width: 5vw;
+}
 }
